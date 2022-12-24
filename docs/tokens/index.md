@@ -7,8 +7,8 @@ sidebar_position: 4
 
 ### The native XRD token
 
-The [XRD](xrd) token is the native token on the Radix Public Network.
+The [XRD token](xrd) is the native token on the Radix Public Network.
 
 ### The eXRD token
 
-- [eXRD](exrd)
+Read more about the [eXRD token](exrd).
