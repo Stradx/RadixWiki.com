@@ -58,7 +58,7 @@ const config = {
         title: "RadixWiki",
         logo: {
           alt: "RadixWiki Logo",
-          src: "img/logo.svg",
+          src: "img/RadixWiki-icon.png",
         },
         items: [
           {
@@ -70,6 +70,13 @@ const config = {
           // { to: "/blog", label: "Blog", position: "left" },
         ],
       },
+      metadata: [
+        {
+          name: "keywords",
+          content:
+            "radixdlt, radix, radixwiki, decentralized, decentralised, defi, finance, distributed ledger technology",
+        },
+      ],
       footer: {
         style: "dark",
         links: [
